@@ -11,7 +11,7 @@
   <page name="CDS Service Spec" key="cds-service-spec" url="cds-service-spec"/>
   <page name="Terminology" key="terminology" url="terminology"/>
   <page name="Knowledge artifacts" key="artifacts" url="artifacts"/>
-  <page name="Downlaods" key="downloads" url="downloads"/>
+  <page name="Downloads" key="downloads" url="downloads"/>
   <page name="Profiles" key="profiles" url="profiles"/>
   <page name="Test data" key="test-data" url="test-data"/>
 </specification>
