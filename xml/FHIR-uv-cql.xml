@@ -19,7 +19,6 @@
 <artifact id="CodeSystem/cql-context-declaration-codes" key="CodeSystem-cql-context-declaration-codes" name="CQL Context Declaration Codes"/>
 <artifact id="ValueSet/cql-context-declaration" key="ValueSet-cql-context-declaration" name="CQL Context Declaration Value Set"/>
 <artifact id="StructureDefinition/cql-evaluatedResource" key="StructureDefinition-cql-evaluatedResource" name="CQL Evaluated Resource"/>
-<artifact deprecated="true" id="StructureDefinition/cql-evaluationresult" key="StructureDefinition-cql-evaluationresult" name="CQL Evaluation Result"/>
 <artifact id="CapabilityStatement/cql-evaluation-service" key="CapabilityStatement-cql-evaluation-service" name="CQL Evaluation Service"/>
 <artifact id="Library/CQLExample" key="Library-CQLExample" name="CQL Example"/>
 <artifact id="StructureDefinition/cql-fhirQueryPatternCoverage" key="StructureDefinition-cql-fhirQueryPatternCoverage" name="CQL FHIR Query Pattern Coverage"/>
@@ -56,6 +55,7 @@
 <artifact id="ValueSet/anc-b5-de49" key="ValueSet-anc-b5-de49" name="Example Danger Signs - No danger signs Codes"/>
 <artifact id="ValueSet/anc-b5-de50" key="ValueSet-anc-b5-de50" name="Example Danger signs Codes"/>
 <artifact id="ValueSet/publishable-example" key="ValueSet-publishable-example" name="Example Danger signs Codes Grouper"/>
+<artifact id="Parameters/cql-parameters-example" key="Parameters-cql-evaluationresult-example" name="Example Evaluation Result Parameters"/>
 <artifact id="Library/module-example" key="Library-module-example" name="Example Logic Library - Module Definition"/>
 <artifact deprecated="true" id="Parameters/qicore-modelinfosettings" key="Parameters-qicore-modelinfosettings" name="Example ModelInfo Settings Parameters"/>
 <artifact deprecated="true" id="Parameters/qicore-modelinfo-settings" key="Parameters-qicore-modelinfo-settings" name="Example ModelInfo Settings Parameters for the QICore Implementation Guide"/>
