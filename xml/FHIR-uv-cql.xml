@@ -37,7 +37,8 @@
 <artifact id="StructureDefinition/cql-namespace" key="StructureDefinition-cql-namespace" name="CQL Namespace"/>
 <artifact id="StructureDefinition/cql-namespaceUri" key="StructureDefinition-cql-namespaceUri" name="CQL Namespace URI"/>
 <artifact id="StructureDefinition/cql-options" key="StructureDefinition-cql-options" name="CQL Options"/>
-<artifact id="StructureDefinition/cql-parameters" key="StructureDefinition-cql-evaluationresult" name="CQL Parameters"/><artifact id="OperationDefinition/cql-resolve-namespace" key="OperationDefinition-cql-resolve-namespace" name="CQL Resolve Namespace"/>
+<artifact id="StructureDefinition/cql-parameters" key="StructureDefinition-cql-evaluationresult" name="CQL Parameters"/>
+<artifact id="OperationDefinition/cql-resolve-namespace" key="OperationDefinition-cql-resolve-namespace" name="CQL Resolve Namespace"/>
 <artifact id="StructureDefinition/cql-selectivity" key="StructureDefinition-cql-selectivity" name="CQL Selectivity"/>
 <artifact id="StructureDefinition/cql-structuredefinition" key="StructureDefinition-cql-structuredefinition" name="CQL StructureDefinition"/>
 <artifact deprecated="true" id="StructureDefinition/cqf-cqlType" key="StructureDefinition-cqf-cqlType" name="CQL Type"/>
